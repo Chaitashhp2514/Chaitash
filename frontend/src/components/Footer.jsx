@@ -80,9 +80,7 @@ const Footer = () => {
           <div className="text-xs text-slate-500 font-mono">
             © {year} {personalInfo.name}. All rights reserved.
           </div>
-          <div className="text-xs text-slate-500 inline-flex items-center gap-1.5">
-            Designed & built with <Heart className="w-3 h-3 text-amber-500 fill-amber-500" /> and a lot of coffee.
-          </div>
+         
         </div>
       </div>
     </footer>

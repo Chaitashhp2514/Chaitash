@@ -22,7 +22,7 @@ const Portfolio = () => {
         <Experience />
         <Education />
         <Achievements />
-        <Contact />
+      
       </main>
       <Footer />
     </div>
